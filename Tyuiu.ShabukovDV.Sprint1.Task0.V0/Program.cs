@@ -21,7 +21,7 @@ namespace Tyuiu.ShabukovDV.Sprint1.Task0.V0
             //Длина строки 75 символов
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
-            Console.WriteLine("* Тема: Базовые навыки работы в С#                                        *");
+            Console.WriteLine("* Тема: Базовые навыки работы d С#                                        *");
             Console.WriteLine("* Задания #0                                                              *");
             Console.WriteLine("* Вариант #0                                                              *");
             Console.WriteLine("* Выполнил: Шабуков Данил Валерьевич | СмартБ-23-1                        *");
