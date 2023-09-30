@@ -12,7 +12,7 @@ namespace Tyuiu.ShabukovDV.Sprint1.Task0.V0.Lib
     {
         public double Calculate()
         {
-            return 10 / (2 + 3);
+            return 3 / 3 * 2 + 12 / 4 / 3 - 2;
         }
     }
 }
